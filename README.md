@@ -67,6 +67,9 @@ English | [简体中文](./README_zh.md)
 ## 📄 License
 
 This project is licensed under [Apache-2.0](./LICENSE)
-
 <!-- waka-box start -->
+#### <a href="https://gist.github.com/vsedov/b7ae11ae916cc3eb529c054e1afad6e2" target="_blank">📊 Weekly development breakdown</a>
+
+<!-- Powered by https://github.com/vsedov/waka-box-go . -->
 <!-- waka-box end -->
+
